@@ -1,0 +1,3 @@
+Lecture1: Problem of Overfitting
+Lecture2: Simple Demo with Octave
+Assignment 1: programming Linear Regression with Octave
